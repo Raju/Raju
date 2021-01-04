@@ -1,6 +1,6 @@
 ### Hi there, I'm Raju.
 
-### Spotify Currently Playing 🎧
+### Currently Playing 🎧 on Spotify
 
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
 
