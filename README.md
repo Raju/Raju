@@ -1,17 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=raju&label=Profile%20views&color=0e75b6&style=flat" alt="raju" /> </p>
 
-<br />
-
 ### Hi there, I'm Raju.
 
 ## I'm a Full Stack Developer, a Ionic Developer, a Flutter Developer.
 
-<br />
-
 ### Currently Playing 🎧 on Spotify
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
-
-<br />
 
 ### Connect with me:
 
@@ -22,8 +16,6 @@
   <a href="https://www.youtube.com/c/ucpczr7ubfh5lfoht3sc8gqg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucpczr7ubfh5lfoht3sc8gqg" height="30" width="40" /></a>
     <a href="https://fb.com/rajudhami1987" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajudhami1987" height="30" width="40" /></a>
 </p>
-
-<br />
 
 ### Languages and Tools:
 
