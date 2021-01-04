@@ -2,5 +2,5 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://vercel.com/raju1/novatorem/dh4zfpnc3)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
+[![Spotify](https://raju1.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
 
