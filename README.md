@@ -4,7 +4,7 @@
 
 ## I'm a Full Stack Developer, a Ionic Developer, a Flutter Developer.
 
-### Currently Online and Playing 🎧 on Spotify
+### Currently Online and Playing on Spotify 🎧
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
 
 ### Connect with me:
