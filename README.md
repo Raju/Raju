@@ -1,38 +1,45 @@
-<img src="https://komarev.com/ghpvc/?username=raju&label=Profile%20views&color=0e75b6&style=flat" alt="raju" /> </p>
+# Hello there. I am Raju 😎 and Welcome to my Profile...  <img src="https://komarev.com/ghpvc/?username=raju&label=Profile%20views&color=0e75b6&style=flat" alt="raju" /></p>
 
-# Hi there, I'm Raju.
+- 🏢 Currently working as a Full Stack Developer @NIIT.
+- 🔥 Currently learning: Flutter and Dart.
+- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, Angular, TypeScript, NodeJS, Mongoose, Express, MongoDB, Git, NPM...
 
-## I'm a Full Stack Developer, a Ionic Developer, a Flutter Developer.
 
-### Currently Online and Playing on Spotify 🎧
+### ⚒️ Languages and Tools:
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="MongooseJS" src="https://img.shields.io/badge/-Mongoose-crimson?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-white?logo=node.js&logoColor=black&style=for-the-badge" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/-MongoDB-4CAA3D?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
+</p>
+
+
+### 🔊 Playing on Spotify...
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
 
-### Connect with me:
 
-<p align="left">
-  <a href="https://linkedin.com/in/irajudhami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="irajudhami" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/14276573/raju-dhami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14276573/raju-dhami" height="30" width="40" /></a>
-  <a href="https://dev.to/raju" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="raju" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/ucpczr7ubfh5lfoht3sc8gqg" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucpczr7ubfh5lfoht3sc8gqg" height="30" width="40" /></a>
-    <a href="https://fb.com/rajudhami1987" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rajudhami1987" height="30" width="40" /></a>
-</p>
+### My GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&theme=dark" alt="raju" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=raju&show_icons=true&theme=dark" alt="raju"width="45%" />
 
-### Languages and Tools:
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
+### My Stackoverflow Stats
+<a href="https://stackoverflow.com/users/14276573/raju"><img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
+
+  
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raju&layout=compact)
+  
+
+### 📬 Connect with me...
+<a href="mailto:imrajudhami@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/imrajudhami/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://stackoverflow.com/users/14276573/raju?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+</a>
