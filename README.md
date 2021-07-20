@@ -25,16 +25,16 @@
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
 
 
-### My GitHub Stats
+### 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&theme=dark" alt="raju" width="45%" align="right"/>
 <img src="https://github-readme-stats.vercel.app/api?username=raju&show_icons=true&theme=dark" alt="raju"width="45%" />
 
 
-### My Stackoverflow Stats
+### 📈 Stackoverflow Stats
 <a href="https://stackoverflow.com/users/14276573/raju"><img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
 
   
-## Top Languages
+## 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raju&layout=compact)
   
 
