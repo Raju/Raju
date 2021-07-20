@@ -26,8 +26,8 @@
 
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&theme=dark" alt="raju" width="45%" align="right"/>
-<img src="https://github-readme-stats.vercel.app/api?username=raju&show_icons=true&theme=dark" alt="raju"width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&theme=dark" alt="raju" align="right" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=raju&show_icons=true&theme=dark" alt="raju" width="48%" />
 
 
 ### 📈 Stackoverflow Stats
