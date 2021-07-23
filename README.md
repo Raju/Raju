@@ -2,7 +2,7 @@
 
 - 🏢 Currently working as a Full Stack Developer @NIIT.
 - 🔥 Currently learning: Flutter and Dart.
-- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, Angular, TypeScript, NodeJS, Mongoose, Express, MongoDB, Git, NPM...
+- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, Angular, TypeScript, NodeJS, Mongoose, Express, MongoDB, Git...
 
 
 ### ⚒️ Languages and Tools:
@@ -17,7 +17,6 @@
   <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-white?logo=node.js&logoColor=black&style=for-the-badge" />
   <img alt="ExpressJS" src="https://img.shields.io/badge/-MongoDB-4CAA3D?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
 </p>
 
 
