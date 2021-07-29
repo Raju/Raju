@@ -1,4 +1,6 @@
-# Hey there, I am Raju 😎 and Welcome to my Profile...  <img src="https://komarev.com/ghpvc/?username=raju&label=Profile%20views&color=0e75b6&style=flat" alt="raju" /></p>
+<img src="https://komarev.com/ghpvc/?username=raju&label=Profile%20views&color=0e75b6&style=flat" alt="raju" />
+
+# Hey there, I am Raju 😎
 
 - 🏢 Currently working as a Full Stack Developer @NIIT.
 - 🔥 Currently learning: Flutter and Dart.
