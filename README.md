@@ -1,5 +1,5 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" height="18" />
+  <img src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" />
   <!--
     <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4">
       <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="25" />
