@@ -16,7 +16,6 @@
     <p>On this planet I build things and work as a <b>Full-Stack Developer</b> at <b>NIIT Limited</b>.</p>
   </div>
   <br />
-  Find me around the 🌎
   <div>
     <a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
