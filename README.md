@@ -1,46 +1,78 @@
-<img src="https://komarev.com/ghpvc/?username=raju&label=Profile%20views&color=0e75b6&style=flat" alt="raju" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" height="18" />
+  <!--
+    <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4">
+      <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="25" />
+    </a>
+  -->
+</div>
+<br />
 
-# Hey there, I am Raju 😎
+<div align='center'>
+  <div>
+    <h1> Hi there 👋, I'm Raju  🧑🏻‍💻 </h1>
+    <br />
+    <p>I currently live on a blue planet called <b>EARTH</b>, which circles around a ball of fire called <b>SUN</b>.</p>
+    <p>On this planet I build things and work as a <b>Full-Stack Developer</b> at <b>NIIT Limited</b>.</p>
+  </div>
+  <br />
+  Find me around the 🌎
+  <div>
+    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/imrajudhami/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:imrajudhami@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </div>
+</div>
 
-- 🏢 Currently working as a Full Stack Developer @NIIT.
+<hr>
+
 - 🔥 Currently learning: Flutter and Dart.
-- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, Angular, TypeScript, NodeJS, Mongoose, Express, MongoDB, Git...
+- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, Angular, TypeScript, NodeJS, Express, MongoDB, Mongoose, Git...
 
+<hr>
 
-### ⚒️ Languages and Tools:
+### ⚒️ Languages:
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-  <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
-  <img alt="MongooseJS" src="https://img.shields.io/badge/-Mongoose-crimson?logo=node.js&logoColor=white&style=for-the-badge" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/-Express-white?logo=node.js&logoColor=black&style=for-the-badge" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/-MongoDB-4CAA3D?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" height="28" width="78.50" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" height="28" width="67.25" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD718.svg?logo=javascript&logoColor=black&style=for-the-badge" height="28" width="125" />&nbsp;
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white&style=for-the-badge" height="28" width="105.25"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" height="28" width="125" />&nbsp;
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="94" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-7B7B7B.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="101.25" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52.svg?logo=mongodb&logoColor=white&style=for-the-badge" height="28" width="109.25" />
+  <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="117.50" />
 </p>
 
+<!-- ### Open Source Projects
 
+[![SunbirdEd Portal](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=SunbirdEd-portal)](https://github.com/Sunbird-Ed/SunbirdEd-portal)
+[![SunbirdEd Content Player](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=sunbird-content-player)](https://github.com/Raju/sunbird-content-player)
+[![Sunbird Content Plugins](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=sunbird-content-plugins)](https://github.com/project-sunbird/sunbird-content-plugins)
+[![Analytics UI](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=analytics-ui-srl)](https://github.com/Raju/analytics-ui-srl)
+[![Analytics UI](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=cert-verify-service)](https://github.com/Raju/cert-verify-service) -->
+
+
+<!-- 
 ### 🔊 Playing on Spotify...
-[![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy)
+[![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy) -->
 
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&theme=dark" alt="raju" align="right" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=raju&show_icons=true&theme=dark" alt="raju" width="48%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white" alt="Raju" align="right" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white" alt="Raju" width="48%" />
 
 ### 📈 Stackoverflow Stats
 <a href="https://stackoverflow.com/users/14276573/raju"><img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
 
   
 ## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raju&layout=compact)
-  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&layout=compact)
 
-### 📬 Connect with me...
-<a href="mailto:imrajudhami@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/imrajudhami/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://stackoverflow.com/users/14276573/raju?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-</a>
+<!-- <div align="right">
+  <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4">
+    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+</div> -->
