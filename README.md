@@ -34,15 +34,15 @@
 
 ### ⚒️ Languages:
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" height="28" width="65" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" height="28" width="51.75" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD718.svg?logo=javascript&logoColor=black&style=for-the-badge" height="28" width="109.50" />&nbsp;&nbsp;
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white&style=for-the-badge" height="28" width="89.75"/>
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" height="28" width="109.50" />&nbsp;&nbsp;
-  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="78.50" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-7B7B7B.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="85.75" />&nbsp;&nbsp;
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52.svg?logo=mongodb&logoColor=white&style=for-the-badge" height="28" width="93.75" />
-  <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="102" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" height="28" width="67" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" height="28" width="53.75" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD718.svg?logo=javascript&logoColor=black&style=for-the-badge" height="28" width="111.50" />&nbsp;&nbsp;
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white&style=for-the-badge" height="28" width="91.75"/>
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" height="28" width="111.50" />&nbsp;&nbsp;
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="80.50" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-7B7B7B.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="87.75" />&nbsp;&nbsp;
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52.svg?logo=mongodb&logoColor=white&style=for-the-badge" height="28" width="95.75" />
+  <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="104" />
 </p>
 
 <!-- ### Open Source Projects
