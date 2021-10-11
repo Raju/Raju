@@ -45,6 +45,7 @@
   <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white&style=for-the-badge" height="28" width="103.50" />
 </p>
 
+<hr />
 <!-- ### Open Source Projects
 
 [![SunbirdEd Portal](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=SunbirdEd-portal)](https://github.com/Sunbird-Ed/SunbirdEd-portal)
@@ -62,6 +63,8 @@
 ### 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white&layout=compact" alt="Raju" align="right" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
+
+### 📈 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
 
 ### 📈 Stack Overflow Stats
