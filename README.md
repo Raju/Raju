@@ -60,15 +60,12 @@
 
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white" alt="Raju" align="right" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white" alt="Raju" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white&layout=compact" alt="Raju" align="right" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
 
-### 📈 Stackoverflow Stats
-<a href="https://stackoverflow.com/users/14276573/raju"><img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
-
-  
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&layout=compact)
+### 📈 Stack Overflow Stats
+<img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
 
 <!-- <div align="right">
   <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4">
