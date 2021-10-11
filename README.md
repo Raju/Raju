@@ -1,11 +1,17 @@
 <div align="right">
   <img align="left" src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" height="20" />
 <!--   <small> Now Playing 🎶 🎶 on </small>&nbsp;&nbsp; -->
+
   <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4" target="_blank">
-    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="20" />
+    <img src="https://img.shields.io/badge/Spotify-231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="20" />
+<!--     <img src="https://img.shields.io/static/v1?message=OFF&logo=spotify&labelColor=231ED760 &color=231ED760&logoColor=white&label=SPOTIFY" height="20" /> -->
+    
   </a>
+<!--   <img src="https://img.shields.io/badge/-Playing-231ED760" alt="raju" height="20" /> -->
+  <img src="https://img.shields.io/badge/-OFF-DD0031" alt="raju" height="20" />
 </div>
 <br />
+
 
 <div align='center'>
   <div>
@@ -60,8 +66,8 @@
 
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white&layout=compact" alt="Raju" align="right" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white" alt="Raju" align="right" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white" alt="Raju" width="48%" />
 
 ### 📈 Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
