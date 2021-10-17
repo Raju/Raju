@@ -1,7 +1,6 @@
 <div align="right">
   <img align="left" src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" height="20" />
 <!--   <small> Now Playing 🎶 🎶 on </small>&nbsp;&nbsp; -->
-
 <!--   <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4" target="_blank"> -->
 <!--     <img src="https://img.shields.io/badge/Spotify-231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="20" /> -->
 <!--     <img src="https://img.shields.io/static/v1?message=OFF&logo=spotify&labelColor=231ED760 &color=231ED760&logoColor=white&label=SPOTIFY" height="20" /> -->
