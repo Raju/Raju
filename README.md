@@ -57,7 +57,6 @@
 [![Analytics UI](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=analytics-ui-srl)](https://github.com/Raju/analytics-ui-srl)
 [![Analytics UI](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=cert-verify-service)](https://github.com/Raju/cert-verify-service) -->
 
-
 <!-- 
 ### 🔊 Playing on Spotify...
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy) -->
