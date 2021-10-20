@@ -10,7 +10,6 @@
 </div>
 <br />
 
-
 <div align='center'>
   <div>
     <h1> Hello, Universe!. I'm Raju 🧑🏻‍💻 and I'm a Human... </h1>
