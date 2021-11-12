@@ -59,7 +59,6 @@
 ### 🔊 Playing on Spotify...
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy) -->
 
-
 ### 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white" alt="Raju" align="right" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white" alt="Raju" width="48%" />
