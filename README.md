@@ -1,3 +1,8 @@
+
+
+
+
+
 <div align="right">
   <img align="left" src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" height="20" />
 <!--   <small> Now Playing 🎶 🎶 on </small>&nbsp;&nbsp; -->
@@ -61,14 +66,16 @@
 [![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy) -->
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raju&count_private=true&theme=white" alt="Raju" align="right" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=raju&count_private=true&show_icons=true&theme=white" alt="Raju" width="48%" />
 
-### 📈 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" alt="Raju" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=raju&include_all_commits=true&count_private=true&show_icons=true&theme=dark&icon_color=ffffff&text_color=b0b0b0" align="left" alt="Raju" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Raju&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=B0B0B0&sideNums=B0B0B0&sideLabels=B0B0B0" alt="Raju" width="48%" />
 
-### 📈 Stack Overflow Stats
+<!-- ### 📈 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" align="left" alt="Raju" width="48%" /> -->
+
+<!-- ### 📈 Stack Overflow Stats
 <img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=14276573&layout=compact" /> -->
 
 <!-- <div align="right">
   <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4">
