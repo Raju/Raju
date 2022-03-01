@@ -37,16 +37,16 @@
 
 ### ⚒️ Languages:
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height=24 width=auto/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height=24 width=auto/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD718.svg?logo=javascript&logoColor=black" height=24 width=auto/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB" height=24 width=auto/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD718.svg?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB&style=for-the-badge" />
 <!--   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white" height=24 /> -->
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" height=24 width=auto/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=Node.js&logoColor=white" height=24 width=auto/>
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-20232A.svg?logo=Node.js&logoColor=whitee" height=24 width=auto/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52.svg?logo=mongodb&logoColor=white" height=24 width=auto/>
-  <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white" height=24 width=auto/>
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=Node.js&logoColor=white&style=for-the-badge" />
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-20232A.svg?logo=Node.js&logoColor=whitee&style=for-the-badge" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52.svg?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white&style=for-the-badge" />
 </p>
 
 <hr />
