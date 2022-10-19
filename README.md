@@ -31,7 +31,7 @@
 <hr>
 
 - 🔥 Currently learning: Flutter and Dart.
-- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, Angular, TypeScript, NodeJS, Express, MongoDB, Mongoose, Git...
+- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Express, MongoDB, Mongoose, Git...
 
 <hr>
 
