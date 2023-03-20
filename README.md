@@ -16,7 +16,7 @@
     <h1> Hello, Universe!. I'm Raju 🧑‍💻 and I'm a Human... </h1>
     <br />
     <p>And I currently live on a blue planet called <b>EARTH</b>, which circles around a red ball of fire called <b>SUN</b>.</p>
-    <p>On this planet I build things and work as a <b>Full-Stack Developer</b> at <b>NIIT Limited</b>.</p>
+    <p>On this planet I build things and work as a <b>Full-Stack Developer</b> at <b>Falabella India</b>.</p>
   </div>
   <br />
   <div>
