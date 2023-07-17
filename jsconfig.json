@@ -1,0 +1,44 @@
+{
+	"compilerOptions": {
+		"baseUrl": "./",
+		"moduleResolution": "node",
+		"noEmit": true,
+		"checkJs": true,
+		"allowJs": true,
+		"experimentalDecorators": true,
+		"allowSyntheticDefaultImports": true,
+		"jsx": "react",
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"target": "esnext",
+		"module": "esnext",
+		"lib": [
+			"esnext",
+			"dom"
+		],
+		"resolveJsonModule": true,
+		"noLib": false
+	},
+	"include": [
+		"**/src/*.js",
+		"**/src/*.jsx",
+		"**/src/**/*.js",
+		"**/src/**/*.jsx"
+	],
+	"exclude": [
+		"**/node_modules",
+		"**/node_modules/**",
+		"**/dist",
+		"**/dist/**",
+		"**/bower_components",
+		"**/bower_components/**",
+		"**/tmp",
+		"**/tmp/**",
+		"**/temp",
+		"**/temp/**",
+		"**/jspm_packages",
+		"**/jspm_packages/**",
+		"**/.next",
+		"**/.next/**"
+	]
+}

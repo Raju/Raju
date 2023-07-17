@@ -1,0 +1,10 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "✨ Commit-msg hook started...🚀"
+echo "✨ Verifying the commit message...📝"
+start=$(date +%s)
+npx pnpx --no -- commitlint --edit
+end=$(date +%s)
+echo "✨ Done in $(($end-$start))s"
+echo

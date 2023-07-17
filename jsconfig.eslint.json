@@ -1,0 +1,32 @@
+{
+	"compilerOptions": {
+		"types": [
+			"node"
+		],
+		"noEmit": true,
+		"allowJs": true
+	},
+	"extends": "./jsconfig.json",
+	"include": [
+		"**/src/*.js",
+		"**/src/*.jsx",
+		"**/src/**/*.js",
+		"**/src/**/*.jsx"
+	],
+	"exclude": [
+		"**/node_modules",
+		"**/node_modules/**",
+		"**/dist",
+		"**/dist/**",
+		"**/bower_components",
+		"**/bower_components/**",
+		"**/tmp",
+		"**/tmp/**",
+		"**/temp",
+		"**/temp/**",
+		"**/jspm_packages",
+		"**/jspm_packages/**",
+		"**/.next",
+		"**/.next/**"
+	],
+}

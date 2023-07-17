@@ -1,0 +1,32 @@
+# Ignore artifacts:
+build
+coverage
+e2e
+dist
+jspm_packages
+tmp
+temp
+
+# Ignore modules and components:
+node_modules
+bower_components
+
+# Ignore files:
+# **/*.js
+# **/*.jsx
+# **/*.ts
+# **/*.tsx
+**/*.json
+
+package.json
+package-lock.json
+yarn.lock
+.gitignore
+.eslintrc.json
+.eslintignore
+.stylelintignore
+.eslintrc.json
+
+.next
+.eslintcache
+.stylelintcache
