@@ -1,3 +1,7 @@
-:root {
-	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+@import "https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500&display=swap";
+
+body {
+	box-sizing: border-box;
+	font-family: "Saira Condensed", sans-serif;
+	line-height: 1.2;
 }

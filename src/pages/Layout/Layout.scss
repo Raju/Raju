@@ -1,0 +1,40 @@
+.heading--name {
+	&__first {
+		margin-right: 0.4rem;
+	}
+
+	&__first,&__last {
+		display: inline-block;
+		font-size: 3rem;
+
+		&::first-letter {
+			font-size: 4rem;
+		}
+	}
+}
+
+.subheading--role {
+	font-size: 2rem !important;
+	margin: 0 !important;
+}
+
+.resume--download {
+	height: 75px;
+	width: 75px;
+}
+
+.hire--me {
+	height: 150px;
+	width: 150px;
+}
+
+article img {
+	background: #F0EBEA;
+	border-radius: 5px;
+	margin: 0 1rem 1.5rem 0;
+	padding: 0.5rem;
+}
+
+article > p {
+	color: #565656 !important;
+}
