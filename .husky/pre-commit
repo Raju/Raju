@@ -1,0 +1,10 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo
+echo "✨ Pre-commit hook started...🚀"
+echo "✨ Linting all staged files...🗂️"
+start=$(date +%s)
+npx lint-staged
+end=$(date +%s)
+echo "✨ Done in $(($end-$start))s."

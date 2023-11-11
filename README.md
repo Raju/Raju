@@ -1,78 +1,46 @@
-<div align="right">
-  <img align="left" src="https://komarev.com/ghpvc/?username=raju&label=Visitors&color=0e75b6&style=flat" alt="raju" height="20" />
-<!--   <small> Now Playing 🎶 🎶 on </small>&nbsp;&nbsp; -->
-<!--   <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4" target="_blank"> -->
-<!--     <img src="https://img.shields.io/badge/Spotify-231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height="20" /> -->
-<!--     <img src="https://img.shields.io/static/v1?message=OFF&logo=spotify&labelColor=231ED760 &color=231ED760&logoColor=white&label=SPOTIFY" height="20" /> -->
-<!--   </a> -->
-<!--   <img src="https://img.shields.io/badge/-Playing-231ED760" alt="raju" height="20" /> -->
-<!--   <img src="https://img.shields.io/badge/-OFF-DD0031" alt="raju" height="20" /> -->
-</div>
+# Getting Started with Create React App
 
-<br />
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<div align='center'>
-  <div>
-    <h1> Hello, Universe!. I'm Raju 🧑‍💻 and I'm a Human... </h1>
-    <br />
-    <p>And I currently live on a blue planet called <b>EARTH</b>, which circles around a red ball of fire called <b>SUN</b>.</p>
-    <p>On this planet I build things and work as a <b>Full-Stack Developer</b> at <b>Falabella India</b>.</p>
-  </div>
-  <br />
-  <div>
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/imrajudhami/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:imrajudhami@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </div>
-</div>
+## Available Scripts
 
-<hr>
+In the project directory, you can run:
 
-- 🔥 Currently learning: Flutter and Dart.
-- 🙇🏻 Ask me about: HTML5, CSS3, JavaScript, ReactJS, TypeScript, NodeJS, Express, MongoDB, Mongoose, Git...
+### `npm start`
 
-<hr>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### ⚒️ Languages:
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-EDD718.svg?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB&style=for-the-badge" />
-<!--   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white" height=24 /> -->
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-43853D.svg?logo=Node.js&logoColor=white&style=for-the-badge" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express-20232A.svg?logo=Node.js&logoColor=whitee&style=for-the-badge" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13AA52.svg?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img alt="MongooseJS" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=Node.js&logoColor=white&style=for-the-badge" />
-</p>
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-<hr />
-<!-- ### Open Source Projects
-[![SunbirdEd Portal](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=SunbirdEd-portal)](https://github.com/Sunbird-Ed/SunbirdEd-portal)
-[![SunbirdEd Content Player](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=sunbird-content-player)](https://github.com/Raju/sunbird-content-player)
-[![Sunbird Content Plugins](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=sunbird-content-plugins)](https://github.com/project-sunbird/sunbird-content-plugins)
-[![Analytics UI](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=analytics-ui-srl)](https://github.com/Raju/analytics-ui-srl)
-[![Analytics UI](https://github-readme-stats.vercel.app/api/pin/?username=raju&repo=cert-verify-service)](https://github.com/Raju/cert-verify-service) -->
-<!-- 
-### 🔊 Playing on Spotify...
-[![Spotify](https://novatorem-five-pearl.vercel.app/api/spotify)](https://open.spotify.com/user/ttfhfxss24s3y356dqg7ckliy) -->
+### `npm test`
 
-### 📊 GitHub Stats
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<img src="https://github-readme-stats.vercel.app/api?username=raju&include_all_commits=true&count_private=true&show_icons=true&theme=dark&icon_color=ffffff&text_color=b0b0b0" align="left" alt="Raju" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Raju&theme=dark&date_format=j%20M%5B%20Y%5D&stroke=B0B0B0&sideNums=B0B0B0&sideLabels=B0B0B0" alt="Raju" width="48%" />
+### `npm run build`
 
-### 📈 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raju&count_private=true&show_icons=true&theme=white&layout=compact" align="left" alt="Raju" width="48%" />
-<!-- ### 📈 Stack Overflow Stats
-<img src="https://stackoverflow.com/users/flair/14276573.png" width="208" height="58"></a>
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=14276573&layout=compact" /> -->
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<!-- <div align="right">
-  <a href="https://open.spotify.com/playlist/2E2Tkd60GZLEMkd1XN4Dpz?si=b4c4dedb5c1b40b4">
-    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
-</div> -->
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).

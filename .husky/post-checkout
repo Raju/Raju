@@ -1,0 +1,10 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo ✨ Post-checkout hook started...🚀
+echo ✨ Checkout in progress...⏰
+echo ✨ Installing packages...📦
+start=$(date +%s)
+npx bun install
+end=$(date +%s)
+echo "✨ Done in $(($end-$start))s."

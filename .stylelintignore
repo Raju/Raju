@@ -1,0 +1,37 @@
+# Ignore artifacts:
+build
+coverage
+e2e
+dist
+jspm_packages
+tmp
+temp
+
+# Ignore modules and components:
+node_modules
+bower_components
+
+# Ignore files:
+# **/*.js
+# **/*.jsx
+# **/*.ts
+# **/*.tsx
+
+package.json
+package-lock.json
+yarn.lock
+
+.next
+
+# Ignore common rc, cache, and ignore files
+.*rc
+.*cache
+.*ignore
+
+# Ignore specific directories and files
+public/styles/global.scss
+public/fonts
+**/*.config.js
+**/*.json
+**/*.md
+.env.*

@@ -1,0 +1,4 @@
+# Use tabs for indentation
+[*]
+indent_style = tab
+indent_size = tab
