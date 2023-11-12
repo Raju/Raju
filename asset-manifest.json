@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Raju/static/css/main.31d6cfe0.css",
-    "main.js": "/Raju/static/js/main.6fb924d3.js",
-    "static/js/496.c0d28c25.chunk.js": "/Raju/static/js/496.c0d28c25.chunk.js",
-    "index.html": "/Raju/index.html",
-    "main.6fb924d3.js.map": "/Raju/static/js/main.6fb924d3.js.map",
-    "496.c0d28c25.chunk.js.map": "/Raju/static/js/496.c0d28c25.chunk.js.map"
+    "main.css": "/static/css/main.31d6cfe0.css",
+    "main.js": "/static/js/main.ec4c6b07.js",
+    "static/js/496.c0d28c25.chunk.js": "/static/js/496.c0d28c25.chunk.js",
+    "index.html": "/index.html",
+    "main.ec4c6b07.js.map": "/static/js/main.ec4c6b07.js.map",
+    "496.c0d28c25.chunk.js.map": "/static/js/496.c0d28c25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.6fb924d3.js"
+    "static/js/main.ec4c6b07.js"
   ]
 }
