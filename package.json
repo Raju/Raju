@@ -8,7 +8,9 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"test": "vitest",
-		"test:coverage": "vitest run --coverage"
+		"test:coverage": "vitest run --coverage",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d dist"
 	},
 	"dependencies": {
 		"@emotion/react": "^11.13.3",
@@ -31,6 +33,7 @@
 		"@vitejs/plugin-react": "^4.3.1",
 		"@vitest/coverage-v8": "^2.0.5",
 		"bootstrap-icons": "^1.11.3",
+		"gh-pages": "^6.1.1",
 		"jsdom": "^25.0.0",
 		"sass": "^1.77.8",
 		"stylelint": "^16.9.0",
